@@ -6,7 +6,7 @@ Cardapio digital moderno para restaurante de sushi, construido com React, Vite e
 
 Abra o cardapio por este link, com a barra final:
 
-https://gabriellyrcarneiro.github.io/FixIt/
+https://gabriellyrcarneiro.github.io/SakuraSushi/
 
 ## Funcionalidades
 
@@ -33,7 +33,7 @@ npm install
 npm run dev
 ```
 
-Com a base do GitHub Pages, o dev server abre em `http://localhost:5173/FixIt/`.
+Com a base do GitHub Pages, o dev server abre em `http://localhost:5173/SakuraSushi/`.
 
 Build de producao:
 
@@ -53,7 +53,7 @@ npm run preview
 
 O projeto esta pronto para deploy na Vercel. Use o diretorio `frontend` como raiz do projeto.
 
-Para GitHub Pages, gere o build com base `/FixIt/`:
+Para GitHub Pages, gere o build com base `/SakuraSushi/`:
 
 ```bash
 cd frontend
