@@ -1,6 +1,6 @@
-# Sakura Sushi - Cardapio Digital
+# 🍣 Sakura Sushi - Cardápio Digital
 
-Cardapio digital moderno para restaurante de sushi, construido com React, Vite e Tailwind CSS.
+Cardápio digital moderno para restaurante de sushi, construido com React, Vite e Tailwind CSS.
 
 # 👩‍💻 Feito por Gabrielly Rodrigues 
 
