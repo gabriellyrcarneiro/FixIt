@@ -59,14 +59,3 @@ VITE_API_URL=http://localhost:8080/api
 | Tecnico | `tecnico@fixit.com` | `tecnico123` |
 | Admin | `admin@fixit.com` | `admin123` |
 
-## Deploy
-
-No Vercel, configure `VITE_API_URL` com a URL HTTPS do backend.
-
-No backend, configure as origens permitidas para CORS com a variavel:
-
-```env
-FIXIT_CORS_ALLOWED_ORIGINS=https://seu-frontend.vercel.app
-```
-
-Se o backend estiver em EC2 sem HTTPS, o navegador bloqueara chamadas feitas por uma pagina HTTPS no Vercel. Nesse caso, use um proxy HTTPS, Load Balancer ou configure SSL com Nginx/Certbot.
