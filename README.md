@@ -2,6 +2,12 @@
 
 Cardapio digital moderno para restaurante de sushi, construido com React, Vite e Tailwind CSS.
 
+## Link publicado
+
+Abra o cardapio por este link, com a barra final:
+
+https://gabriellyrcarneiro.github.io/FixIt/
+
 ## Funcionalidades
 
 - Menu responsivo com visual premium.
